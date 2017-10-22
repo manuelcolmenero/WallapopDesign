@@ -14,7 +14,7 @@ La práctica consistirá en demostrar el manejo del Sketch replicando 4 pantal
 que os adjunto en la carpeta.
 
 ## Prototipo en Marvel
-Se puede acceder a ver el prototipo en la web Marvel en este enlace https://marvelapp.com/6id4597
+Se puede acceder a ver el prototipo en la web Marvel en este [enlace](https://marvelapp.com/6id4597)
 
 ## Pantallas
 Lista productos | Menú lateral | Detalle producto | Menú de opciones
